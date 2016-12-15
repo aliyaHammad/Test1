@@ -1,0 +1,6 @@
+
+C:\Users\Lenovo\Desktop\Test1>
+
+git status
+cmd.exe
+cd./Desktop
